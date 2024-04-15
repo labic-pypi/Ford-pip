@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-name='Ford-pip',
+name='fordpip',
 version='0.1.0',
 author='Labic',
 author_email='labicmma@gmail.com',

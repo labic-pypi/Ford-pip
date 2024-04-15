@@ -1,0 +1,9 @@
+pyproject.toml
+readme.txt
+src/fordpip/__init__.py
+src/fordpip/start.py
+src/fordpip/test.py
+src/fordpip.egg-info/PKG-INFO
+src/fordpip.egg-info/SOURCES.txt
+src/fordpip.egg-info/dependency_links.txt
+src/fordpip.egg-info/top_level.txt
