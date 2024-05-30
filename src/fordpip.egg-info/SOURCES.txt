@@ -1,10 +1,12 @@
 LICENSE
 pyproject.toml
 readme.txt
+requirements.txt
 fordpip/__init__.py
 fordpip/start.py
 fordpip/test.py
 fordpip.egg-info/PKG-INFO
 fordpip.egg-info/SOURCES.txt
 fordpip.egg-info/dependency_links.txt
+fordpip.egg-info/requires.txt
 fordpip.egg-info/top_level.txt
